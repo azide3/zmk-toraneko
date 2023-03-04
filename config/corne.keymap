@@ -344,7 +344,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
- &trans  &trans  &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &mmv MOVE_UP
+ &trans  &trans  &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans  &mmv MOVE_UP &trans
  &trans  &trans  &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &gqt LG(C) C  &gqt LG(V) V  &trans  &trans  &trans  &trans  &trans  &trans  &trans
                                &trans        &trans  &trans  &trans  &trans  &trans
